@@ -14,4 +14,4 @@ Alguns assuntos abordados:
 - Proteção de dados
 - Como agir diante de um golpe
 
-E-book: "Abrir o PDF" (ebook_prevencao_golpes_IA.pdf)
+E-book: "Abrir o PDF" ebook_prevencao_golpes_IA.pdf
